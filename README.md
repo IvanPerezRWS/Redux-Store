@@ -1,7 +1,7 @@
 # Redux-Store
 
-## Porpuse
-The popuse of this assigment is to use my new knowldge and skills in state management to refactor an e-commerce platform from the module project so that is uses Redux. 
+## Purpose
+The purpose of this assigment is to use my new knowldge and skills in state management to refactor an e-commerce platform from the module project so that is uses Redux. 
 
 ## Acceptance Criteria 
 GIVEN an e-commerce platform that uses Redux to manage global state
